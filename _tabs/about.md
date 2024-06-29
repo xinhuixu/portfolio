@@ -15,3 +15,7 @@ order: 1
 - I received my B.A. from Wellesley College in 2021.
 
 - In my free time, I enjoy museums, parks, movies, libraries, cooking and baking, boardgames, and making art, which includes super-amateur photography. This is a mutable list...
+
+
+![Desktop View](assets/img/cat-compressed.png){: width="972" height="589" }
+_Me and my cat Chance hanging around._

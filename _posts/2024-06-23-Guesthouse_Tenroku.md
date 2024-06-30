@@ -53,5 +53,5 @@ _Mockup of the QR code poster._
 - **Evaluation:** Following up with staff to gather feedback for continuous refinement and extension of the guide.
 
 
-> This project is in active development. [Contact me](mailto:xinhuixu02@gmail.com) if you have any ideas or questions.
+> This project is undergoing iterative development. [Contact me](mailto:xinhuixu02@gmail.com) if you have any ideas or questions.
 {: .prompt-info }

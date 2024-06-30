@@ -6,6 +6,13 @@ order: 1
 
 ![Desktop View](assets/img/Profile2024.JPEG){: width="972" height="589" }
 
+> Hi! Thanks for stopping by.
+{: .prompt-tip }
+
+I'm Xinhui, and I use this site as a digital portfolio for selected personal and professional projects I've done.
+
+My main arena is [**instructional design**](https://en.wikipedia.org/wiki/Instructional_design), which means I build content and/or interactive experiences that help people learn effectively. 
+
 - My first name is pronounced like `shin-way`. 
     - It means "new wisdom" in Mandarin Chinese.
     - My last name is pronounced like `shoo`.
@@ -18,4 +25,4 @@ order: 1
 
 
 ![Desktop View](assets/img/cat-compressed.png){: width="972" height="589" }
-_Me and my cat Chance hanging around._
+_Me and my cat hanging out._
